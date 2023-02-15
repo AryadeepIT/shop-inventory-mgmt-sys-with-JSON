@@ -1,1 +1,5 @@
 Aryadeep,aryadeepit@gmail.com,9735427303,19,Prabhuji Bhujia Pure Bhujia ready,2,247,553.77,Wed Feb 15 16:28:43 2023
+Sanchita,sanchita@aryadeep.com,8282828282,14,Lays Chips Classical Flavour,50,20,1121.0,Wed Feb 15 17:04:23 2023
+Sanchita,sanchita@aryadeep.com,8282828282,15,Kurkure Chips Family Hunger,1486.8,Wed Feb 15 17:05:24 2023
+Arya,arya@gmail.com,98989898,1,Modern Bread High Fiber Diet,5,17,100.3,Wed Feb 15 17:07:09 2023
+Aryadeep,AryadeepIT@gmail.com,9735427303,2,Good Night Mosquito Refill regular,10,77,863.17,Wed Feb 15 17:12:32 2023
